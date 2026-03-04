@@ -20,16 +20,6 @@ Python developer in learning
 <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode" />
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SENMART28/SENMART28/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 <p align="center">
 Thanks for visiting my profile ⭐
 </p>
