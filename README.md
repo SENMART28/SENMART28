@@ -11,6 +11,7 @@ Python developer in learning
 - 🐍 Currently learning **Python** and **Django**
 - 📚 Studying programming on **Stepik**
 - 🦀 Planning to learn **Rust** in the future
+- I love anal fisting
 
 ---
 
