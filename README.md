@@ -10,7 +10,7 @@ Python developer in learning
 - 🎂 16 years old  
 - 🐍 Currently learning **Python** and **Django**
 - 📚 Studying programming on **Stepik**
-- 🦀 Planning to learn **Rust** in the future
+- 🐹 Planning to learn **Go** in the future
 
 ---
 
