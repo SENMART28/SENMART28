@@ -17,7 +17,7 @@ Python developer in learning
 ### 🛠 Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,postgres,docker" />
 </p>
 
 <p align="center">
